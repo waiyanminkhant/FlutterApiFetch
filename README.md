@@ -1,16 +1,8 @@
 # commerce
 
-A new Flutter commerce project.
+Api Testing and ListView
 
-## Getting Started
+## Screenshot
 
-This project is a starting point for a Flutter application.
+![MainScreen](https://github.com/waiyanminkhant/FlutterApiFetch/assets/37637971/9189e714-047a-43b1-95bf-61c96611360e)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
